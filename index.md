@@ -23,4 +23,4 @@ My GitHub page is [http://github.com/spatrascu](https://spatrascu.github.io/).
 
   Lab 10, part 2 was one of my favorites because I liked how I was able to practice using 2d arrays and sorting and matching the different 
   counties and population. It was also a slightly challenging lab so I had fun because I considered it a challenge. This lab was important 
-  because it taught me about 2d arrays.
+  because it taught me about 2d arrays. 
