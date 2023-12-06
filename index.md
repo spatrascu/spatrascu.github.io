@@ -10,7 +10,7 @@ My GitHub page is [http://github.com/spatrascu](https://spatrascu.github.io/).
 
 * Sandwich([Lab 8, Part 2](https://github.com/cpsc-fall-2023/cpsc-120-lab-08-ashton-stefan.git)) 
 
-  Lab 8, part 2 was a favorite because I was able to learn how to properly use the command line. I also really like sandwiches, so it was      cool that I was able to customize my own sandwich by inputing different condiments and bread. I think this lab was important because I     
+  Lab 8, part 2 was a favorite because I was able to learn how to properly use the command line. I also really like sandwiches, so it was      cool that I was able to customize my own sandwich by inputing different condiments and bread. I think this lab was important because I
   learned how to use the command line, and use the different arguments on the command line.
 
 * Schedule([Lab 9, Part 2](https://github.com/cpsc-fall-2023/cpsc-120-lab-09-stefan.git))
